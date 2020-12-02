@@ -17,7 +17,6 @@
 				"${workspaceFolder}\\GLEW\\lib\\Release\\Win32\\glew32s.lib",
 
 				"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86\\OpenGL32.Lib",
-
 				"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86\\User32.Lib",
 				"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86\\Gdi32.Lib",
 				"C:\\Program Files (x86)\\Windows Kits\\10\\Lib\\10.0.18362.0\\um\\x86\\shell32.lib",
